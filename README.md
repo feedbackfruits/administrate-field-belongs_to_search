@@ -54,13 +54,3 @@ This plugin is Copyright © 2017 Fishbrain AB. It is licensed under the MIT lice
 ## Screenshot
 
 ![Screenshot](http://i.imgur.com/4GlEJ6O.png)
-
-========
-
-![Fishbrain AB](http://i.imgur.com/wOMiqE8.png)
-
-This plugin is maintained by [Fishbrain AB](https://fishbrain.com).
-
-At Fishbrain, we're passionate about the outdoors and conservation. Together, we work to bring you the best app for fishing, hands down.
-
-If you love working with amazing and talented people in tight-knit teams, [join us](https://fishbrain.com/jobs/)!
